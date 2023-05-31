@@ -6,3 +6,5 @@ Programação Orientada a Objetos - Em aula
 Eu quero alterar este documento
 para demonstar como funciona a comparação 
 de documentos
+
+assinado CRS.
